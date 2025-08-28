@@ -8,21 +8,7 @@ This project analyzes Airbnb listings data to uncover insights about pricing tre
 
 ├── Airbnb Price and Review Analysis.ipynb
 
-├── data/
-
-│ ├── listings.csv # Raw Airbnb data
-
-│ └── ...
-
-├── images/
-
-│ ├── price_distribution.png
-
-│ ├── review_trends.png
-
-│ └── ...
-
-├── requirements.txt
+├── listings.csv # Raw Airbnb data
 
 └── README.md
 
@@ -61,9 +47,9 @@ This project analyzes Airbnb listings data to uncover insights about pricing tre
 Clone this repository
 
 
-git clone https://github.com/yourusername/airbnb-price-review-analysis.git
-cd airbnb-price-review-analysis
-Add your data
+git clone https://github.com/shelararti/Airbnb-Price-and-Review-Analysis.git
+
+cd Airbnb-Price-and-Review-Analysis
 
 Put your Airbnb dataset (e.g., listings.csv) into the data/ folder.
 
